@@ -1,6 +1,6 @@
 # odin-recipes
-Work in progress with odin project foundations
-
+Work in progress with odin project foundations  
+Demo: https://gillmoni.github.io/odin-recipes/
 TASKS  
   DONE: Add pages  
   DONE: Add images  
